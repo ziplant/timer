@@ -59,6 +59,7 @@
       margin: auto 25px
       cursor: pointer
       position: relative
+      outline: none
       &--start::before
         content: ''
         position: absolute
